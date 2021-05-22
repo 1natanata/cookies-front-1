@@ -8,7 +8,10 @@ const FakeControllers = () => (
             <Grid item xs={6}>
                 <FakeTimeController/>
             </Grid>
-            <Grid item xs={6}>
+            <Grid item xs={3}>
+                <FakeStatusController/>
+            </Grid>
+            <Grid item xs={3}>
                 <FakeStatusController/>
             </Grid>
         </Grid>
