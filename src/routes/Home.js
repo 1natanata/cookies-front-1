@@ -1,6 +1,6 @@
 const Home = () => (
     <div>
-        <h1>ZINA is not adminka</h1>
+        <h1>ПЕЧЕНЬКОВЫЙ КОНВЕЕР</h1>
     </div>
 )
 export default Home
